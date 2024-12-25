@@ -1,1 +1,3 @@
-# codecafecommunity.github.io
+# Code Café Community website
+
+:construction: Currently under construction :construction:
